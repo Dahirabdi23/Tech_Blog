@@ -1,6 +1,6 @@
 header, .project:not(:last-child) {
     border-bottom: 1px solid #ccc;
-    background-color: #4c6e4c;
+    background-color: #e1e43d;
     color: black;
     font-family: 'Frijole', cursive;
     text-align: center;
@@ -8,12 +8,12 @@ header, .project:not(:last-child) {
   }
   
   body {
-    background-color: #84a584;
+    background-color: #eaec56;
   }
   
   nav {
   margin-bottom: 12px;
-  background-color: #315531;
+  background-color: #ee8e3f;
   align-items: center;
   }
   
